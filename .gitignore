@@ -1,0 +1,5 @@
+*.code-workspace
+desktop.ini
+
+# Obsidian
+.obsidian/
