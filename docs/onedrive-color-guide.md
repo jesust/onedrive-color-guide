@@ -74,6 +74,34 @@ Comenzar es sencillo y transformará tu manera de interactuar con tus archivos:
 
 ---
 
+---
+
+## 🎨 Alternativa para Usuarios Sin OneDrive Nativo: Íconos de Carpetas Personalizados
+
+Si no utilizas OneDrive, tu sistema operativo no soporta el coloreado nativo de carpetas, o simplemente buscas una alternativa visual, puedes emplear paquetes de íconos personalizados para lograr una organización similar.
+
+Un excelente recurso es la librería de íconos **"Windows 11 coloured folder icons" creada por ABS96**, disponible en DeviantArt. Este paquete ofrece una estética similar a la propuesta en esta guía.
+
+Puedes descargar el paquete directamente desde aquí: [Windows 11 coloured folder icons by ABS96 on DeviantArt](https://www.deviantart.com/abs96/art/Windows-11-coloured-folder-icons-896431403)
+
+### ⚠️ Consideraciones Importantes sobre la Licencia (CC BY-NC-ND 3.0)
+
+Es crucial entender que esta librería de íconos está licenciada bajo **Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (CC BY-NC-ND 3.0)**. Esto significa que:
+
+*   **Atribución (BY)**: Debes dar crédito al creador original (ABS96).
+*   **No Comercial (NC)**: No puedes usar los íconos para fines comerciales.
+*   **No Derivadas (ND)**: **No está permitido alterar, transformar o construir sobre la obra original.**
+
+**Para aplicar el sistema de esta guía con estos íconos y cumplir con la licencia 'No Derivadas'**:
+
+1.  **Descarga los íconos directamente del enlace proporcionado**: No los redistribuyas. Cada usuario debe obtenerlos desde la fuente original.
+2.  **No modifiques los íconos**: Utiliza los íconos tal como vienen en el paquete. Cualquier alteración (cambio de color, tamaño, composición) estaría prohibida.
+3.  **Tu sistema de significado es una interpretación**: La asignación de significados a los colores de estos íconos, tal como se propone en esta guía, es un marco conceptual de interpretación y no una modificación directa de la obra original de ABS96. Mantén esta distinción clara.
+
+Al seguir estas pautas, podrás disfrutar de una organización visual efectiva y compatible con la licencia del autor.
+
+---
+
 ## ¿Listo para una organización que realmente funcione?
 
 Esta guía es más que un conjunto de reglas; es una filosofía para una gestión de información más consciente y efectiva. Adopta el poder del color y transforma tu experiencia digital hoy mismo.
