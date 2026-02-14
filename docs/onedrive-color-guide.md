@@ -2,15 +2,18 @@
 
 ## ¿Cansado de la desorganización digital? Dale Sentido y Emoción a Tus Carpetas.
 
-En el vertiginoso mundo digital, encontrar lo que necesitas rápidamente es clave. Pero, ¿cuántas veces te has sentido perdido en un mar de carpetas con nombres similares, sin saber cuál es la "correcta" o la más importante?
+En el vertiginoso mundo digital, encontrar lo que necesitas rápidamente es clave. Presentamos el **Esquema Narrativo de Colores para Carpetas en OneDrive**: un sistema ingenioso diseñado para convertir tu estructura de archivos en un **mapa visual e intuitivo**.
 
-Presentamos el **Esquema Narrativo de Colores para Carpetas en OneDrive**: un sistema ingenioso diseñado para convertir tu estructura de archivos en un **mapa visual e intuitivo**. Más que solo organizar, este método te permite infundir significado y emoción a cada espacio digital, guiándote a ti y a tu equipo con una claridad sin precedentes. Deja de buscar; empieza a ver.
+![Mapa Emocional](../infographics/emotional-map.svg)
 
 ---
 
 ## 🎨 Tu Lienzo Digital: El Esquema Narrativo de Colores
 
-Cada color no es solo una etiqueta, es una historia, una llamada a la acción y un estado. Aquí te presentamos cómo cada tono te ayudará a navegar tu universo digital:
+Cada color no es solo una etiqueta, es una historia, una llamada a la acción y un estado. 
+
+> [!TIP] Narrativa de Color
+> Recuerda que el color no es solo estético; es una herramienta de comunicación silenciosa que reduce la carga cognitiva.
 
 | Color | Uso Sugerido Principal | Narrativa / Emoción | Acción Clave (¿Qué significa?) |
 |-------|------------------------|---------------------|--------------------------------|
@@ -26,15 +29,28 @@ Cada color no es solo una etiqueta, es una historia, una llamada a la acción y 
 
 ## ✨ Despierta el Poder del Color: Por Qué Necesitas Esta Guía
 
-Imagina abrir tu OneDrive y, en un instante, saber dónde está todo. Este sistema no es solo estético; es una potente herramienta para tu productividad y bienestar digital:
+Imagina abrir tu OneDrive y, en un instante, saber dónde está todo.
 
 *   **Claridad Instantánea**: Elimina la ambigüedad. Un vistazo te dice el estado y la importancia de cualquier carpeta.
 *   **Eficiencia Mejorada**: Reduce el tiempo de búsqueda y la carga cognitiva. Vas directo a lo que importa.
 *   **Comunicación Silenciosa**: Tu estructura de archivos "habla" por sí misma, facilitando el onboarding de nuevos miembros y la colaboración.
-*   **Resonancia Emocional**: Conecta con tus tareas de una forma más intuitiva. El rojo te impulsa, el verde te tranquiliza.
-*   **Sistema Escalábil y Flexible**: Adaptable a cualquier tipo de proyecto o equipo, desde individuos hasta grandes organizaciones.
+*   **Resonancia Emocional**: Conecta con tus tareas de una forma más intuitiva.
 
-Deja que tus carpetas trabajen para ti, comunicando su propósito antes incluso de que hagas clic.
+---
+
+## 💡 Guía Rápida de Implementación
+
+Comenzar es sencillo y transformará tu manera de interactuar con tus archivos. Utiliza esta referencia técnica para tus primeros pasos:
+
+![Rejilla de Productividad](../infographics/productivity-grid.svg)
+
+1.  **Observa tus carpetas**: Identifica el propósito principal y el estado actual de cada una.
+2.  **Asigna un color**: Basándote en el "Uso Sugerido" y la "Narrativa/Emoción" de la tabla, elige el color que mejor represente cada carpeta.
+3.  **Aplica la acción clave**: Usa la "Acción Clave" como una pauta inmediata sobre cómo interactuar con el contenido.
+4.  **Mantén la Consistencia**: Una vez asignado, respeta el significado de cada color. La coherencia es el pilar de este sistema.
+
+> [!IMPORTANT] Consistencia
+> Si un color cambia de significado entre proyectos, el sistema pierde su efectividad. Mantén una leyenda clara si trabajas en equipo.
 
 ---
 
@@ -46,58 +62,28 @@ No importa si eres desarrollador, diseñador, gestor de proyectos o estudiante, 
     *   **Azul**: Repositorios de código activos (GitHub, Azure DevOps).
     *   **Naranja**: Ambientes de `staging`, `testing`, `releases` en proceso.
     *   **Rojo**: Reportes de `bugs` críticos, `auditorías de seguridad` pendientes.
-    *   **Gris**: Versiones antiguas del código, proyectos finalizados.
 *   **Documentación y Contenido**:
-    *   **Verde**: Manuales de usuario, guías de estilo, procedimientos operativos estándar (SOPs) finalizados.
-    *   **Naranja**: Borradores (`drafts`), artículos en revisión, contenido de `blogs` en progreso.
-    *   **Amarillo**: Plantillas de documentos, imágenes de stock, bibliotecas de iconos.
+    *   **Verde**: Manuales de usuario, SOPs finalizados.
+    *   **Naranja**: Borradores (`drafts`), artículos en revisión.
 *   **Gestión de Proyectos**:
-    *   **Rojo**: Tareas con fecha límite inminente, cuellos de botella críticos.
-    *   **Morado**: `Brainstorming` de nuevas ideas, `prototipos` de producto, exploraciones de `UX`.
-    *   **Azul**: Documentación de proyectos activos, planes estratégicos en ejecución.
-*   **Archivos Personales / Académicos**:
-    *   **Verde**: Trabajos finales aprobados, certificados, CV.
-    *   **Naranja**: Proyectos en curso, apuntes de clase no organizados aún.
-    *   **Gris**: Archivos académicos de años anteriores, recuerdos digitales.
+    *   **Rojo**: Tareas con fecha límite inminente, cuellos de botella.
+    *   **Morado**: `Brainstorming` de nuevas ideas, `prototipos` de producto.
 
 ---
 
-## 💡 Guía Rápida de Implementación
+## 🎨 Alternativa para Usuarios Sin OneDrive Nativo
 
-Comenzar es sencillo y transformará tu manera de interactuar con tus archivos:
+Si no utilizas OneDrive, puedes emplear paquetes de íconos personalizados para lograr una organización similar.
 
-1.  **Observa tus carpetas**: Identifica el propósito principal y el estado actual de cada una.
-2.  **Asigna un color**: Basándote en el "Uso Sugerido" y la "Narrativa/Emoción" de la tabla, elige el color que mejor represente cada carpeta.
-3.  **Aplica la acción clave**: Usa la "Acción Clave" como una pauta inmediata sobre cómo interactuar con el contenido.
-4.  **Mantén la Consistencia**: Una vez asignado, respeta el significado de cada color. La coherencia es el pilar de este sistema.
-5.  **Comparte la Guía**: Invita a tu equipo a adoptar este lenguaje visual para una colaboración más fluida.
+> [!INFO] Recurso Externo
+> Un excelente recurso es la librería de íconos **"Windows 11 coloured folder icons" creada por ABS96**, disponible en DeviantArt. 
+> [Descargar aquí](https://www.deviantart.com/abs96/art/Windows-11-coloured-folder-icons-896431403)
 
----
-
-## 🎨 Alternativa para Usuarios Sin OneDrive Nativo: Íconos de Carpetas Personalizados
-
-Si no utilizas OneDrive, tu sistema operativo no soporta el coloreado nativo de carpetas, o simplemente buscas una alternativa visual, puedes emplear paquetes de íconos personalizados para lograr una organización similar.
-
-Un excelente recurso es la librería de íconos **"Windows 11 coloured folder icons" creada por ABS96**, disponible en DeviantArt. Este paquete ofrece una estética similar a la propuesta en esta guía.
-
-Puedes descargar el paquete directamente desde aquí: [Windows 11 coloured folder icons by ABS96 on DeviantArt](https://www.deviantart.com/abs96/art/Windows-11-coloured-folder-icons-896431403)
-
-> [!IMPORTANT] ⚠️ Consideraciones Importantes sobre la Licencia (CC BY-NC-ND 3.0)
->
->Es crucial entender que esta librería de íconos está licenciada bajo **Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 (CC BY-NC-ND 3.0)**. Esto significa que:
->
->*   **Atribución (BY)**: Debes dar crédito al creador original (ABS96).
->*   **No Comercial (NC)**: No puedes usar los íconos para fines comerciales.
->*   **No Derivadas (ND)**: **No está permitido alterar, transformar o construir sobre la obra original.**
->
->**Para aplicar el sistema de esta guía con estos íconos y cumplir con la licencia 'No Derivadas'**:
->
->1.  **Descarga los íconos directamente del enlace proporcionado**: No los redistribuyas. Cada usuario debe obtenerlos desde la fuente original.
->2.  **No modifiques los íconos**: Utiliza los íconos tal como vienen en el paquete. Cualquier alteración (cambio de color, tamaño, composición) estaría prohibida.
->3.  **Tu sistema de significado es una interpretación**: La asignación de significados a los colores de estos íconos, tal como se propone en esta guía, es un marco conceptual de interpretación y no una modificación directa de la obra original de ABS96. Mantén esta distinción clara.
->
-
-Al seguir estas pautas, podrás disfrutar de una organización visual efectiva y compatible con la licencia del autor.
+> [!WARNING] Consideraciones sobre la Licencia (CC BY-NC-ND 3.0)
+> Es crucial entender que esta librería de íconos está licenciada bajo **CC BY-NC-ND 3.0**. 
+> - **Atribución (BY)**: Da crédito a ABS96.
+> - **No Comercial (NC)**: No para fines comerciales.
+> - **No Derivadas (ND)**: **No está permitido alterar, transformar o construir sobre la obra original.**
 
 ---
 

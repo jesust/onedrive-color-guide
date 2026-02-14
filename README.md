@@ -18,10 +18,10 @@ OneDriveColorGuide/
 ├── docs/                  ← Documentos escritos
 │   ├── onedrive-color-guide.md ← Guía detallada de uso
 │   └── future-roadmap.md  ← Ideas y evolución
-├── infographics/          ← Material visual
-│   ├── color-system.png   ← Infografía principal
-│   ├── quick-guide.png    ← Versión minimalista
-│   └── extended-guide.png ← Versión extendida
+├── infographics/          ← Material visual (SVG/PNG)
+│   ├── productivity-grid.svg ← Guía rápida de productividad
+│   ├── emotional-map.svg    ← Mapa narrativo emocional
+│   └── quick-guide.png      ← Versión minimalista
 ├── examples/              ← Casos prácticos
 │   ├── folder-structure.md
 │   └── screenshots/       ← Capturas de aplicación real
@@ -30,6 +30,13 @@ OneDriveColorGuide/
     └── templates/         ← Plantillas reutilizables
 ```
 
+## 🖼️ Recursos Visuales
+Hemos diseñado dos herramientas visuales para facilitar la adopción del sistema:
+
+| **The Productivity Grid** | **The Emotional Map** |
+| :---: | :---: |
+| [![Productivity Grid](infographics/productivity-grid.svg)](infographics/productivity-grid.svg) | [![Emotional Map](infographics/emotional-map.svg)](infographics/emotional-map.svg) |
+| *Ideal para consulta técnica rápida.* | *Ideal para entender la narrativa emocional.* |
 
 ## 🚀 Uso
 Para una aplicación efectiva y consistente de este sistema, consulta [la Guía completa de Colores para OneDrive](docs/onedrive-color-guide.md). A modo de resumen, te recomendamos:
